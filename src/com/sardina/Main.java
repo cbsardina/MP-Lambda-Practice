@@ -21,11 +21,5 @@ public class Main {
 
         lambdaRun.run();
 
-
-
-
-
-
-
     }
 }
